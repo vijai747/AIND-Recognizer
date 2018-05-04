@@ -11,4 +11,5 @@
 .gitignore text
 *.md text
 * linguist-language=Python
-*.ipynb linguist-language=Python
+*.html linguist-language=Jupyter Notebook
+*.ipynb linguist-language=Jupyter Notebook
