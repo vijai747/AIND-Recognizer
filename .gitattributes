@@ -10,5 +10,4 @@
 *.gitattributes text
 .gitignore text
 *.md text
-* linguist-language=Python
 *.html linguist-documentation=true
